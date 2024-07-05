@@ -6,3 +6,18 @@ h1{
     box-sizing: border-box;
     padding: 5px;
 }
+
+p{
+    background-color: orange;
+    text-align: center;
+    font-size: 30px;
+   
+}
+.learn{
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 10px;
+}
+#pfour{
+    display: none;
+}
